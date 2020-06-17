@@ -5,4 +5,4 @@
 
 ## Subheader 
 
-Just follwoing a tutorial online  !!
+Just following a tutorial online  !!
